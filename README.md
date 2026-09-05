@@ -54,11 +54,14 @@ npm run dev
 For Software:
 
 # Screenshots
-![Seed Stage]
+![Fully Grown] <img width="1518" height="719" alt="image" src="https://github.com/user-attachments/assets/6292152e-5361-4616-ae58-768c068f1f9f" />
+
 
 ![Sprout Stage]
-
-![Fully Grown]
+<img width="1506" height="713" alt="image" src="https://github.com/user-attachments/assets/69d1ac92-1107-4224-8032-e66c73db9214" />
+<img width="1494" height="725" alt="image" src="https://github.com/user-attachments/assets/72cd11bc-e9c2-4727-b36f-9409b8e24224" />
+![Seed Stage]
+<img width="1490" height="714" alt="image" src="https://github.com/user-attachments/assets/446af2b8-1ca5-4f09-a1be-30055a658466" />
 
 ---
 Made with ❤️ at TinkerHub Useless Projects
